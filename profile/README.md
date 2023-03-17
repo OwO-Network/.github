@@ -10,5 +10,5 @@ This is **OwO Network**. We are a few computer science college students. We hope
 ## Contact
 If you want to ask something, feel free to contact us!
 
-- Email: [no-reply@owo.network](mailto:no-reply@owo.network)
+- Email: [noreply@owo.network](mailto:noreply@owo.network)
 - Telegram: [missuo](https://t.me/missuo)

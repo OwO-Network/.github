@@ -4,7 +4,7 @@ This is **OwO Network**. We are a few computer science college students. We hope
 
 ## Members
 - [Vincent](https://github.com/missuo): Operator of [AS206729](https://bgp.he.net/as206729). Contributor of [MTProxy](https://github.com/missuo/MTProxy) and [OpenAI-Checker](https://github.com/missuo/OpenAI-Checker).
-- [Leo](https://github.com/sjlleo): Core Contributor of [NextTrace](https://github.com/sjlleo/nexttrace).
+- [Leo](https://github.com/sjlleo): Operator of [AS151187](https://bgp.he.net/as151187). Core Contributor of [NextTrace](https://github.com/sjlleo/nexttrace).
 - [Ming](https://github.com/Chenming00): OwO Network CMO.
 
 ## Contact
